@@ -1,0 +1,60 @@
+[31m2023-11-13 08:55:16 error: uncaughtException: port is not defined
+ReferenceError: port is not defined
+    at Object.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:36:12)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as [31m2023-11-13 08:55:16 error: uncaughtException: port is not defined
+ReferenceError: port is not defined
+    at Object.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:36:12)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47[39m
+[31m2023-11-13 08:55:23 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 08:55:24 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 08:55:35 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 08:55:39 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 08:56:38 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 08:56:39 error: uncaughtException: env is not defined
+ReferenceError: env is not defined
+    at Server.<anonymous> (C:\sunit_imp_data\sampleCode\nodeClass\express\pro2\service.js:38:33)
+    at Object.onceWrapper (node:events:628:28)
+    at Server.emit (node:events:514:28)
+    at emitListeningNT (node:net:1785:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)[39m
+[31m2023-11-13 09:20:54 error: [GET] >> StatusCode:: 409, Message::  fetch_single_user_details_service data is null[39m
+[31m2023-11-13 09:21:41 error: [GET] >> StatusCode:: 409, Message::  fetch_single_user_details_service data is null[39m

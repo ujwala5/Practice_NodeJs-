@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\sunit_imp_data\\sampleCode\\nodeClass\\express\\pro2\\logs\\debug\\.54cc0ff8ea38833d81616ad278a1c05cdc6f9785-audit.json",
+    "files": [
+        {
+            "date": 1699845774396,
+            "name": "C:\\sunit_imp_data\\sampleCode\\nodeClass\\express\\pro2\\logs\\debug\\2023-11-13.log",
+            "hash": "8a5a5583fd0befc7cc4cc7c1bc7e0dc91ffea0733e41b40e04238ea8e42{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\sunit_imp_data\\sampleCode\\nodeClass\\express\\pro2\\logs\\debug\\.54cc0ff8ea38833d81616ad278a1c05cdc6f9785-audit.json",
+    "files": [
+        {
+            "date": 1699845774396,
+            "name": "C:\\sunit_imp_data\\sampleCode\\nodeClass\\express\\pro2\\logs\\debug\\2023-11-13.log",
+            "hash": "8a5a5583fd0befc7cc4cc7c1bc7e0dc91ffea0733e41b40e04238ea8e42f129e"
+        }
+    ],
+    "hashType": "sha256"
+}
