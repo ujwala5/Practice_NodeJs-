@@ -1,0 +1,2 @@
+{"level":"info","message":"hello rohit","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
